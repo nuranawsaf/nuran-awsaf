@@ -1,0 +1,26 @@
+.resume-btn{
+    background-color: #dc3445;
+    text-decoration: none;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
+.contact-btn{
+    margin-right: 15px;
+    background-color: #dc3445;
+    text-decoration: none;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
+.about-area{
+    margin-top: 100px;
+}
+.blog{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 60px 40px 40px 40px;
+    
+}

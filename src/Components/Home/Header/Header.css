@@ -1,0 +1,39 @@
+.top-banner{
+    background-image: url("../../../images/cover-1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.header{
+    margin-top: 200px;
+    font-size: 60px;
+}
+.style{
+    color: #de3445;
+}
+.icon1{
+    margin-top: 20px;
+    color: rgb(120, 178, 253);
+    font-size: 50px;
+    border: 2px solid rgb(120, 178, 253);
+    border-radius: 5px;
+    padding: 4px 8px;
+}
+.icon2{
+    margin-left: 50px;
+    margin-top: 20px;
+    color: #de3445;
+    font-size: 50px;
+    border: 2px solid #de3445;
+    border-radius: 5px;
+    padding: 4px 8px;
+}
+.icon3{
+    margin-left: 50px;
+    margin-top: 20px;
+    color: orangered;
+    font-size: 50px;
+    border: 2px solid orangered;
+    border-radius: 5px;
+    padding: 4px 8px;
+}

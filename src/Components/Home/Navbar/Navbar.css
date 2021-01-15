@@ -1,0 +1,19 @@
+.nav-bg{
+    background-color: #090b54; 
+}
+.nav-area{
+    margin-left: 220px;
+}
+.nav-iteam{
+    color: white;
+}
+.nav-item{
+    margin: 1px 15px 0px 15px;
+}
+.lets-talk{
+    color: white;
+    margin-left: 150px;
+    background-color: #de3445;
+    border-radius: 5px;
+    padding: 8px 10px;
+}
